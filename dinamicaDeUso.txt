@@ -1,0 +1,8 @@
+DINÂMICA DE USO PRESENCIAL
+
+1- É entregue uma comanda para o cliente que entra na pizzaria
+2- Garçom se dirige até a mesa do cliente e anota o número de sua mesa e coleta os pedidos da mesa (dinamicamente)
+3- Garçom vai até o balcão, entrega os pedidos ao pizzaiolo e entrega o número da mesa ao caixa
+4- Caixa ocupa a mesa digitando o código informado pelo garçom
+5- Para fechar a conta, garçom se dirige até a mesa, confere todos os pedidos e leva a comanda até o caixa
+6- Caixa faz a venda dos produtos
